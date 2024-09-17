@@ -13,3 +13,11 @@ A Big O Notation é usada para descrever o desempenho de um algoritmo em termos 
 Estes código são explicados no post do meu blog:
 
 [Guia completo do BIG-O Notation](https://berlotto.me/posts/entendendo-a-big-o-notation-um-guia-completo-para-desenvolvedores/)
+
+
+## Exercite
+
+Na pasta exercício, temos 3 algoritmos diferentes que calculam as casas decimais de PI. Abra os arquivos .py e analise cada um.
+
+As respostas estão em exercicio.md, abra-o somente depois de tentar definir qual a complexidade de cada algoritimo.
+
